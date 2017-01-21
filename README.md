@@ -16,9 +16,9 @@
 <hr>
 Some screens from System
 <p>Main page
-<p align="center"><img src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/main_page.png" data-canonical-src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/main_page.png" width="520" height="300"  align="middle" />
+<p align="center"><img src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/main_page.png" data-canonical-src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/main_page.png" width="530" height="300"  align="middle" />
 <p>Page for information about Professor's Subject
-<p align="center"><img src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/subject_page.png" data-canonical-src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/subject_page.png" width="520" height="300"  align="middle" /> 
+<p align="center"><img src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/subject_page.png" data-canonical-src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/subject_page.png" width="530" height="300"  align="middle" /> 
 
 
 
