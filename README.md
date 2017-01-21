@@ -1,4 +1,4 @@
-# System Of Individual Works. Web Application based on Yii2
+# System Of Individual Works
 
 <p>Web application based on the MVC-model using the PHP-framework Yii2. Besides using JS, HTML5, CSS3 and Bootstrap.
 
@@ -15,6 +15,11 @@
 
 <hr>
 Some screens from System
+<p>Main page
+<p align="center"><img src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/main_page.png" data-canonical-src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/main_page.png" width="300" height="500"  align="middle" />
+<p>Page for information about Professor's Subject
+<p align="center"><img src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/subject_page.png" data-canonical-src="https://github.com/NadineAstakhova/SystemOfIndividualWorks/raw/master/subject_page.png" width="300" height="500"  align="middle" /> 
+
 
 
 
