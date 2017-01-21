@@ -1,4 +1,6 @@
-Web application based on the MVC-model using the PHP-framework Yii2. Besides using JS, HTML5, CSS3 and Bootstrap.
+# System Of Individual Works. Web Application based on Yii2
+
+<p>Web application based on the MVC-model using the PHP-framework Yii2. Besides using JS, HTML5, CSS3 and Bootstrap.
 
 <p>This web application works with database (MySQL).
 
