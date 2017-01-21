@@ -1,0 +1,2 @@
+1	1	Petrilov A. V.	Weather station	Lenina Str.,13	ÂÊ345781	987643
+2	2	Ivanov I.Iş	Weather station	Krupskaya Str.,199	ÂÊ345123	678231
