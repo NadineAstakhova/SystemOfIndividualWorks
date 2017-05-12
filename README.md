@@ -11,7 +11,7 @@
 
 <p>The project is still being developed, so it isn't latest version.
 
-<p>P.S. There is a second version of the System with another design and additional functionality. Now this system is being tested (beta-test).
+<p>P.S. There is a second version of the System with another design and additional functionality. Now this system is being tested (alpha-test).
 
 <hr>
 Some screens from System
