@@ -11,7 +11,7 @@
 
 <p>The project is still being developed, so it isn't latest version.
 
-<p>P.S. There is a second version of the System with another design and additional functionality. Now this system is being tested (alpha-test). So if you interest, you can go to <a href='http://www.paramonov.info/siw/web'>link</a>
+<p>P.S. There is a second version of the System with another design and additional functionality. Now this system is being tested (alpha-test). So if you interest, you can go to <a href='http://www.paramonov.info/siw/web'>link</a>.
 
 <hr>
 Some screens from System
